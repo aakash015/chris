@@ -1,0 +1,56 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#top-div{
+  display: block;
+  background-color: rgba(32,67,150,1);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0px;
+  position: relative;  
+  width: 100vw;
+  height: 24px;
+}
+/* #american-elem{
+    position: absolute;
+    display: block;
+    left: 24px;
+    top: 46px;
+    height: auto;
+    font-size: 14px;
+    font-family: Arial,sans-serif;
+} */
+
+strong{
+  font-weight: bold;
+}
+
+.span4{
+  font-size: 26px;
+  color:rgb(201, 9, 9);
+  border: 2px dotted rgb(201, 9, 9);
+  padding-left: 26px;
+  padding-right: 26px;
+}
+
+.p1-btn{
+  border: 100px;
+}
+
+.grey-div{
+  height: 3px;
+  background-color: #ccc
+}
+
+#timer{
+  font-size: 28px;
+  color:rgb(214, 27, 27);
+  border: 2px solid rgb(214, 27, 27);
+}
+
+button{
+  border-radius: 20px !important;
+}
